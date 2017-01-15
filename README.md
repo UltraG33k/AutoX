@@ -8,4 +8,5 @@ The list of features will contain:
 - SLL configuration
 - domain and subdomain vhost configuration
 - PHP-FPM option
+
 And many more.
