@@ -5,7 +5,7 @@ AutoX will be written in Python and will be cross-platform. As of now, it's curr
 To see what it is at the moment, go to: https://autox.geektown.dk
 
 The list of features will contain:
-- SLL configuration
+- SSL configuration
 - domain and subdomain vhost configuration
 - PHP-FPM option
 
