@@ -1,12 +1,5 @@
 # AutoX
-A little program that makes nginx vhosts easier to setup
+A little program that makes nginx setup easier.
 
-AutoX will be written in Python and will be cross-platform. As of now, it's currently not on GitHub and is written in bash.
-To see what it is at the moment, go to: https://autox.geektown.dk
-
-The list of features will contain:
-- SSL configuration
-- domain and subdomain vhost configuration
-- PHP-FPM option
-
-And many more.
+Current progress can be seen here:
+https://autox.geektown.dk
